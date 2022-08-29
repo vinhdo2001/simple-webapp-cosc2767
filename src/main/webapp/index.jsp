@@ -17,7 +17,7 @@
       <h1 class="display-4">RMIT University Vietnam</h1>
       <p class="lead">Course: COSC2767 Systems Deployment and Operations</p>
       <p class="lead">Semester: 2022B</p>
-	<p class="lead">Assessment: Assignment 2</p>
+	<p class="lead">Assessment: Assignment  2</p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
       <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
