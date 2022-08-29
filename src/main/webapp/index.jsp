@@ -14,9 +14,10 @@
 
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
-      <h1 class="display-4">Hello world for DevOps Students!</h1>
-      <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
-      <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!!</p>
+      <h1 class="display-4">RMIT University Vietnam</h1>
+      <p class="lead">Course: COSC2767 Systems Deployment and Operations</p>
+      <p class="lead">Semester: 2022B</p>
+	<p class="lead">Assessment: Assignment 2</p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
       <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
